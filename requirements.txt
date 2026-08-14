@@ -4,3 +4,4 @@ ipykernel
 matplotlib
 requests
 jinja2
+contextily
